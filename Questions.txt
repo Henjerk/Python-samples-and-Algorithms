@@ -1,0 +1,41 @@
+QUESTION ONE : A Palindrome is a number that reads the same forward as it does in reverse. 
+For example, 12321 is a palindrome because it reads the same going from left to right as 
+it does going right to left.Most numbers can be made into palindromes by taking the original number, 
+reversing the digits, then adding the original number to the reversed digits. 
+If that number isn’t a palindrome, then repeat the same process until you reach a palindrome. 
+Most numbers can be made into palindromes by repeating this process, but some numbers don’t converge. 
+During this process, if the number becomes larger than 1,000,000 and still doesn’t form a palindrome, then return false.
+
+QUESTION TWO : A regular expression to search through a given string with the provided sequence
+
+QUESTION THREE : Provided with a list, return all products of the given list items.
+
+
+QUESTION FOUR : Provided with a list of values, remove all instances of a given value within that list
+
+QUESTION FIVE: String Compression: Implement a method to perform basic string compression using the counts
+of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3". If the "compressed" 
+string would not become smaller than the original string, your method should return the original string. 
+You can assume the string has only uppercase and lowercase letters (a-z, A-Z).
+
+QUESTION SIX : Get all permutations from the provided list items in the length specified
+
+QUESTION SEVEN: Provided with a list of integers who appear twice and only one appears once, return an 
+integer which appears once
+
+QUESTION EIGHT: Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
+For example:Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.
+
+QUESTION NINE: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+Example:Given nums = [2, 7, 11, 15], target = 9,Because nums[0] + nums[1] = 2 + 7 = 9,return [0, 1].
+
+QUESTION TEN : Given a String, for example '2a3b4c' . Write a method that returns 'aabbbcccc'
+
+QUESTION ELEVEN : Determine whether an integer is a palindrome. Do this without extra space.
+
+
+
+
+
+
